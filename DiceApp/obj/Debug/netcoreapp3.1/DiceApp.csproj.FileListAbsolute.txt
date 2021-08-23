@@ -1,0 +1,13 @@
+C:\Users\nicom\source\repos\DiceApp\obj\Debug\netcoreapp3.1\DiceApp.csproj.AssemblyReference.cache
+C:\Users\nicom\source\repos\DiceApp\obj\Debug\netcoreapp3.1\DiceApp.AssemblyInfoInputs.cache
+C:\Users\nicom\source\repos\DiceApp\obj\Debug\netcoreapp3.1\DiceApp.AssemblyInfo.cs
+C:\Users\nicom\source\repos\DiceApp\obj\Debug\netcoreapp3.1\DiceApp.csproj.CoreCompileInputs.cache
+C:\Users\nicom\source\repos\DiceApp\bin\Debug\netcoreapp3.1\DiceApp.exe
+C:\Users\nicom\source\repos\DiceApp\bin\Debug\netcoreapp3.1\DiceApp.deps.json
+C:\Users\nicom\source\repos\DiceApp\bin\Debug\netcoreapp3.1\DiceApp.runtimeconfig.json
+C:\Users\nicom\source\repos\DiceApp\bin\Debug\netcoreapp3.1\DiceApp.runtimeconfig.dev.json
+C:\Users\nicom\source\repos\DiceApp\bin\Debug\netcoreapp3.1\DiceApp.dll
+C:\Users\nicom\source\repos\DiceApp\bin\Debug\netcoreapp3.1\DiceApp.pdb
+C:\Users\nicom\source\repos\DiceApp\obj\Debug\netcoreapp3.1\DiceApp.dll
+C:\Users\nicom\source\repos\DiceApp\obj\Debug\netcoreapp3.1\DiceApp.pdb
+C:\Users\nicom\source\repos\DiceApp\obj\Debug\netcoreapp3.1\DiceApp.genruntimeconfig.cache

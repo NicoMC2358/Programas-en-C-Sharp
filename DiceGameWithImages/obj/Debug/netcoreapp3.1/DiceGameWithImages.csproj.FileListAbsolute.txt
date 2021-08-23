@@ -1,0 +1,15 @@
+C:\Users\nicom\source\repos\DiceGameWithImages\bin\Debug\netcoreapp3.1\DiceGameWithImages.exe
+C:\Users\nicom\source\repos\DiceGameWithImages\bin\Debug\netcoreapp3.1\DiceGameWithImages.deps.json
+C:\Users\nicom\source\repos\DiceGameWithImages\bin\Debug\netcoreapp3.1\DiceGameWithImages.runtimeconfig.json
+C:\Users\nicom\source\repos\DiceGameWithImages\bin\Debug\netcoreapp3.1\DiceGameWithImages.runtimeconfig.dev.json
+C:\Users\nicom\source\repos\DiceGameWithImages\bin\Debug\netcoreapp3.1\DiceGameWithImages.dll
+C:\Users\nicom\source\repos\DiceGameWithImages\bin\Debug\netcoreapp3.1\DiceGameWithImages.pdb
+C:\Users\nicom\source\repos\DiceGameWithImages\obj\Debug\netcoreapp3.1\DiceGameWithImages.Form1.resources
+C:\Users\nicom\source\repos\DiceGameWithImages\obj\Debug\netcoreapp3.1\DiceGameWithImages.csproj.GenerateResource.cache
+C:\Users\nicom\source\repos\DiceGameWithImages\obj\Debug\netcoreapp3.1\DiceGameWithImages.AssemblyInfoInputs.cache
+C:\Users\nicom\source\repos\DiceGameWithImages\obj\Debug\netcoreapp3.1\DiceGameWithImages.AssemblyInfo.cs
+C:\Users\nicom\source\repos\DiceGameWithImages\obj\Debug\netcoreapp3.1\DiceGameWithImages.csproj.CoreCompileInputs.cache
+C:\Users\nicom\source\repos\DiceGameWithImages\obj\Debug\netcoreapp3.1\DiceGameWithImages.dll
+C:\Users\nicom\source\repos\DiceGameWithImages\obj\Debug\netcoreapp3.1\DiceGameWithImages.pdb
+C:\Users\nicom\source\repos\DiceGameWithImages\obj\Debug\netcoreapp3.1\DiceGameWithImages.genruntimeconfig.cache
+C:\Users\nicom\source\repos\DiceGameWithImages\obj\Debug\netcoreapp3.1\DiceGameWithImages.Properties.Resources.resources

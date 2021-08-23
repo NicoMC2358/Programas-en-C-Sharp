@@ -1,0 +1,14 @@
+C:\Users\nicom\source\repos\DiceGameInForms\bin\Debug\netcoreapp3.1\DiceGameInForms.exe
+C:\Users\nicom\source\repos\DiceGameInForms\bin\Debug\netcoreapp3.1\DiceGameInForms.deps.json
+C:\Users\nicom\source\repos\DiceGameInForms\bin\Debug\netcoreapp3.1\DiceGameInForms.runtimeconfig.json
+C:\Users\nicom\source\repos\DiceGameInForms\bin\Debug\netcoreapp3.1\DiceGameInForms.runtimeconfig.dev.json
+C:\Users\nicom\source\repos\DiceGameInForms\bin\Debug\netcoreapp3.1\DiceGameInForms.dll
+C:\Users\nicom\source\repos\DiceGameInForms\bin\Debug\netcoreapp3.1\DiceGameInForms.pdb
+C:\Users\nicom\source\repos\DiceGameInForms\obj\Debug\netcoreapp3.1\DiceGameInForms.Form1.resources
+C:\Users\nicom\source\repos\DiceGameInForms\obj\Debug\netcoreapp3.1\DiceGameInForms.csproj.GenerateResource.cache
+C:\Users\nicom\source\repos\DiceGameInForms\obj\Debug\netcoreapp3.1\DiceGameInForms.AssemblyInfoInputs.cache
+C:\Users\nicom\source\repos\DiceGameInForms\obj\Debug\netcoreapp3.1\DiceGameInForms.AssemblyInfo.cs
+C:\Users\nicom\source\repos\DiceGameInForms\obj\Debug\netcoreapp3.1\DiceGameInForms.csproj.CoreCompileInputs.cache
+C:\Users\nicom\source\repos\DiceGameInForms\obj\Debug\netcoreapp3.1\DiceGameInForms.dll
+C:\Users\nicom\source\repos\DiceGameInForms\obj\Debug\netcoreapp3.1\DiceGameInForms.pdb
+C:\Users\nicom\source\repos\DiceGameInForms\obj\Debug\netcoreapp3.1\DiceGameInForms.genruntimeconfig.cache
